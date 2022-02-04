@@ -19,5 +19,5 @@ git clone https://github.com/AnantLuthra/Snake-Water-Gun-GUI.git
 - You can use this game for enjoyment, if feeling low or else just come and play this game, it's user interactive too.
 
 # Contributers
-- [Anant Luthra](https://github.com/AnantLuthra) [Twitter]-(https://twitter.com/luthra_anant)
-- [Parampreet Singh](https://github.com/param302) [Twitter]-(https://twitter.com/Param3021)
+- [Anant Luthra](https://github.com/AnantLuthra) [Twitter](https://twitter.com/luthra_anant)
+- [Parampreet Singh](https://github.com/param302) [Twitter](https://twitter.com/Param3021)
